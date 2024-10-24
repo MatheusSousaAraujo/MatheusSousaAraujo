@@ -6,6 +6,9 @@
 <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-s-araujo&theme=dark"/></br>
 </div>
 
+<div> 
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=matheus-s-araujo&show_icons=true)"/></br>
+</div>
 
 ### Skills
 

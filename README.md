@@ -9,8 +9,8 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,postgres,vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git)](https://skillicons.dev)
 
 
 ## Let's talk? Here is my contact

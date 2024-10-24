@@ -7,7 +7,7 @@
 </div>
 
 <div> 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=matheus-s-araujo&show_icons=true)"/></br>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=matheus-s-araujo&show_icons=true&theme=dark)"/></br>
 </div>
 
 ### Skills

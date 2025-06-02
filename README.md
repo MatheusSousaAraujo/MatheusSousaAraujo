@@ -4,8 +4,10 @@
 #### Currently, I'm studying Analysis and Systems Development at the Federal Institute of Santa Catarina. Always learning and growing in the tech world.
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-s-araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-s-araujo&show_icons=true&theme=dark&count_private=true"/>
 </div>
+
+
 
 ### Skills
 

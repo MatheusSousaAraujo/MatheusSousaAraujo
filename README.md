@@ -11,7 +11,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,sqlite,java,hibernate,maven,mysql,postgres,html,css,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,sqlite,java,hibernate,maven,mysql,postgres,html,css,figma,git,django,postman)](https://skillicons.dev)
 
 
 

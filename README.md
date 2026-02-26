@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-s-araujo&show_icons=true&theme=dark&count_private=true"/>
+  <img height="150em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
 
 </div>
 
